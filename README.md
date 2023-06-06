@@ -2,7 +2,7 @@
 
 In this project you'll start playing with Rails routing.
 
-## Learning Goals
+## Learning goals
 
 - Be able to create routes in __config/routes.rb__
 - Be able to read and understand Rails server error messages
